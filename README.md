@@ -5,48 +5,47 @@ Welcome to my CodeAlpha Python Programming Internship repository. This repositor
 # Task 1: Hangman Game
 A text-based word guessing game where the player uncovers a randomly selected word by guessing one letter at a time within a limited number of attempts.
 
-Topics Covered
-Random module
-Loops
-Conditional statements
-Lists and strings
-Input validation
+**Topics Covered**
+- Random module
+- Loops
+- Conditional statements
+- Lists and strings
+- Input validation
 
 # Task 2: Stock Portfolio Tracker
-A text-based word guessing game where the player uncovers a randomly selected word by guessing one letter at a time within a limited number of attempts.
+A simple stock portfolio tracker that allows users to enter stock symbols and quantities, calculates the total investment value using predefined stock prices, and saves the portfolio summary to a text file.
 
-Topics Covered
-Random module
-Loops
-Conditional statements
-Lists and strings
-Input validation
-
+**Topics Covered**
+- Dictionaries
+- Loops
+- User input/output
+- Arithmetic calculations
+- Exception handling
+- File handling
+  
 # Task 4: Basic Chatbot
 A rule-based chatbot that interacts with users by recognizing predefined messages and returning suitable responses.
 
-Topics Covered
-Functions
-Conditional statements
-Loops
-String manipulation
-User interaction
+**Topics Covered**
+- Functions
+- Conditional statements
+- Loops
+- String manipulation
+- User input/output
 
 # Technologies Used
-1) Python
-2) Visual Studio Code
+- Python
+- Visual Studio Code
 
-# Skills Gained
+## Skills Gained
 
 Completing these projects strengthened my understanding of:
-1) Python programming fundamentals
-2) Problem-solving techniques
-3) Program logic and control flow
-4) Working with data structures
-5) File operations
-6) Building interactive console applications
-
-
+- Python programming fundamentals
+- Problem-solving techniques
+- Program logic and control flow
+- Working with data structures
+- File handling
+- Building interactive console applications
 
 
  
