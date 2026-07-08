@@ -53,7 +53,7 @@ String manipulation
 Input/output
 
 # Tools Used
-Python 3
+Python 
 Visual Studio Code
 
 # Skills Developed
