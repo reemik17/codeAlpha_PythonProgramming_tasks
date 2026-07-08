@@ -39,7 +39,6 @@ A rule-based chatbot that interacts with users by recognizing predefined message
 - Visual Studio Code
 
 ## Skills Gained
-
 Completing these projects strengthened my understanding of:
 
 - Python programming fundamentals
