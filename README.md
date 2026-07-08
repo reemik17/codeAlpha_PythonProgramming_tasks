@@ -13,14 +13,13 @@ A text-based word guessing game where the player uncovers a randomly selected wo
 - Input validation
 
 # Task 2: Stock Portfolio Tracker
-A simple stock portfolio tracker that allows users to enter stock symbols and quantities, calculates the total investment value using predefined stock prices, and saves the portfolio summary to a text file.
+A simple stock portfolio tracker that allows users to enter stock symbols and quantities, calculates the total investment value using predefined stock prices, and saves the total investment to a text file.
 
 **Topics Covered**
 - Dictionaries
 - Loops
 - User input/output
 - Arithmetic calculations
-- Exception handling
 - File handling
   
 # Task 4: Basic Chatbot
