@@ -1,6 +1,5 @@
 # CodeAlpha Python Programming Internship
-
-Welcome to my **CodeAlpha Python Programming Internship** repository. This repository contains the projects I completed during the internship to strengthen my Python programming skills through practical applications.
+Welcome to my CodeAlpha Python Programming Internship repository. This repository contains the Python projects I completed during my internship, focusing on strengthening my programming skills through practical, hands-on applications.
 
 ## Projects
 
@@ -39,7 +38,7 @@ A rule-based chatbot that interacts with users by recognizing predefined message
 - Visual Studio Code
 
 ## Skills Gained
-Completing these projects strengthened my understanding of:
+Through these projects, I gained practical experience in:
 
 - Python programming fundamentals
 - Problem-solving techniques
