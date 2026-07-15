@@ -1,7 +1,7 @@
 # Hangman Game
 
 ## Description
-This project is a text-based Hangman game developed in Python. A random fruit is selected from a predefined list, and the player attempts to guess the word one letter at a time before reaching the maximum number of incorrect guesses.
+A text-based word guessing game where the player uncovers a randomly selected fruit by guessing one letter at a time within a limited number of attempts.
 
 ## Features
 - Randomly selects a fruit from a predefined list
