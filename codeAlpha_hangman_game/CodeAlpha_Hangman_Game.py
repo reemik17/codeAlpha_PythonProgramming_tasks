@@ -18,16 +18,17 @@ print("Guess the fruit one letter at a time.")
 while incorrect_guesses < maximum_incorrect_guesses:
 
     # Display the word with guessed letters
-    display_word += "_ "
+    display_word = ""
 
     for letter in random_word:
         if letter in guessed_letters:
-            display_word += letter
+            display_word += letter + " "
         else:
-            display_word += "_"
+            display_word += "_ "
 
     print("Word:", display_word)
-
+    print("Guessed letters:", guessed_letters)
+    
     # Check if the player has guessed the whole word
     if "_" not in display_word:
         print("Congratulations! You guessed the word:", random_word)
@@ -60,4 +61,4 @@ while incorrect_guesses < maximum_incorrect_guesses:
 # Game over
 if incorrect_guesses == maximum_incorrect_guesses:
     print("Game Over!")
-    print("Guessed letters:", guessed_letters)
+    print("The word was:", random_word)
