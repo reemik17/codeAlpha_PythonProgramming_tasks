@@ -21,14 +21,20 @@ while True:
         stock_name = input("Enter stock name: ").upper()
 
         if stock_name in stock_prices:
-            quantity = int(input("Enter stock quantity: "))
 
+            try:
+                quantity = int(input("Enter stock quantity: "))
+            except ValueError:
+                print("Please enter a valid number.")
+                continue
+                
             if quantity > 0:
                 investment = stock_prices[stock_name] * quantity
                 total_investment += investment
                 print("Investment for", stock_name, "=", investment)
             else:
                 print("Quantity must be greater than 0.")
+                
         else:
             print("Stock not found.")
 
@@ -39,7 +45,7 @@ while True:
         break
 
     else:
-        print("Invalid option.")
+        print("Invalid option. Please try again.")
 
 # Save result to file
 with open("file.txt", "w") as file:
