@@ -1,11 +1,13 @@
 # Stock Portfolio Tracker
+
 ## Description
-This project calculates the value of a stock portfolio using predefined stock prices. Users enter stock symbols and the number of shares they own. The program calculates the total investment value and saves the result to a text file.
+This project allows users to create a simple stock portfolio by entering stock symbols and the number of shares they own. It calculates the total investment value using predefined stock prices and saves the final result to a text file.
 
 ## Features
 - Uses predefined stock prices
 - Accepts multiple stock entries
 - Calculates the total investment value
+- Validates user input for stock quantity
 - Saves the total investment to a text file
 
 ## Concepts Practiced
@@ -14,3 +16,4 @@ This project calculates the value of a stock portfolio using predefined stock pr
 - User input/output
 - Arithmetic calculations
 - File handling
+- Input validation
