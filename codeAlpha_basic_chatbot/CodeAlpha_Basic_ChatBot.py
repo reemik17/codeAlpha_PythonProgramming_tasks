@@ -1,7 +1,7 @@
 # Function for the chatbot
 def chatbot():
 
-    print("ChatBot!")
+    print("Welcome to the Basic ChatBot!")
     print("Enter 'bye' to exit.")
 
     while True:
@@ -17,7 +17,7 @@ def chatbot():
             print("ChatBot: I'm fine, thanks!")
 
         elif user_input == "what is your name":
-            print("ChatBot: My name is BOT.")
+            print("ChatBot: My name is ChatBot.")
 
         elif user_input == "tell me a random color":
             print("ChatBot: A random color is green.")
